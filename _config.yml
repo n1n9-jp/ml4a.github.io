@@ -22,6 +22,18 @@ collections:
   chapters_it:
     output: true
     permalink: /ml4a/it/:path/
+  chapters_pt:
+    output: true
+    permalink: /ml4a/pt/:path/
+  chapters_de:
+    output: true
+    permalink: /ml4a/de/:path/
   guides:
     output: true
     permalink: /guides/:path/
+  demos:
+    output: true
+    permalink: /demos/:path/
+  terms:
+    output: true
+    permalink: /glossary/:path/

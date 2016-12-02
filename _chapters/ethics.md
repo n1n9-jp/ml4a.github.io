@@ -8,6 +8,10 @@ http://people.whitman.edu/~herbrawt/classes/339/Descartes.pdf
 http://home.cogeco.ca/~drheault/ee_readings/West/Descartes.pdf
 http://journalofcosmology.com/Consciousness136.html
 
+https://arxiv.org/abs/1611.04135
+
+
+if you torture the data long enough, it will confess
 
 animals are without feeling or awareness of any kind?
 
@@ -85,11 +89,17 @@ Asymmetric access in public / private sphere to resources.
 
 # Surveillance and profiling
 
-Terror tuesdays
+Terror tuesdays, skynet
 
 # Genetic surveillance
 
 HDH has explored this since her work with stranger visions, and subsequent ones.
+
+# Predicting crime from faces
+
+https://arxiv.org/abs/1611.04135
+l'homme criminel
+Propublica recrimination article
 
 # Diversity in research and adjacent fields
 
@@ -144,3 +154,8 @@ andrew ng "Worrying about killer robots is like worrying about overpopulation on
 
 http://www.nature.com/news/machine-ethics-the-robot-s-dilemma-1.17881
 http://www.nature.com/news/robotics-ethics-of-artificial-intelligence-1.17611
+
+
+
+facebook stuff from barca workshop
+JFK, noted hero on the left
